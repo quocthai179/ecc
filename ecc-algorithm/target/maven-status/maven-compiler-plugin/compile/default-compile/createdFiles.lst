@@ -1,6 +1,0 @@
-service\EccService.class
-rest\EccController$Templates.class
-model\EccEntity.class
-rest\EccController.class
-util\Startup.class
-util\JavaExtensions.class
